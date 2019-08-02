@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL file
+__pycache__ /
+* .py [ cod ]
+* $ py.class
+
+Ekstensi # C
+* .jadi
+
+# Distribusi / kemasan
+.Python
+membangun /
+mengembangkan-telur /
+dist /
+unduhan /
+telur /
+.eggs /
+Lib /
+lib64 /
+bagian /
+sdist /
+var /
+roda /
+* .egg-info /
+.installed.cfg
+* .egg
+NYATA
+
+# PyInstaller
+#   Biasanya file-file ini ditulis oleh skrip python dari templat
+#   sebelum PyInstaller membuat exe, untuk menginjeksikan tanggal / info lain ke dalamnya.
+* .manifestasi
+* .spec
+
+# Pemasang log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Tes unit / laporan cakupan
+htmlcov /
+.tox /
+.coverage
+.coverage. *
+.cache
+nosetests.xml
+coverage.xml
+*. tutup
+. hipotesis /
+.pytest_cache /
+
+# Terjemahan
+* .mo
+* .pot
+
+# Barang-barang Django:
+* .log
+local_settings.py
+db.sqlite3
+
+# Barang termos:
+contoh /
+.webassets-cache
+
+# Barang-barang scrapy:
+.crapy
+
+# Dokumentasi Sphinx
+docs / _build /
+
+# PyBuilder
+target /
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-versi
+
+# file jadwal mengalahkan seledri
+jadwal selerybeat
+
+# SageMath mem-parsing file
+* .sage.py
+
+# Lingkungan
+.env
+.vv
+env /
+venv /
+ENV /
+env.bak /
+venv.bak /
+
+# Pengaturan proyek Spyder
+.spyderproject
+. proyek
+
+# Pengaturan proyek tali
+proyek
+
+# dokumentasi mkdocs
+/ situs
+
+# mypy
+.mypy_cache /
